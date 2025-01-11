@@ -1,0 +1,34 @@
+﻿@model IEnumerable<TaskManagerAppNotes.Models.Note>
+
+<h2>Notes</h2>
+
+<p>
+    <a href="@Url.Action("Create", "Notes")" class="btn btn-primary">Add a New Note</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Preview</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var note in Model)
+        {
+            <tr>
+                <td>@note.Title</td>
+                <td>
+                    <a href="@Url.Action("Details", "Notes", new { id = note.Id })" class="text-decoration-none">
+                        @(note.Content.Length > 50 ? @note.Content.Substring(0, 50) + "..." : @note.Content)
+                    </a>
+                </td>
+                <td>
+                    <a href="@Url.Action("Edit", "Notes", new { id = note.Id })" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@note.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

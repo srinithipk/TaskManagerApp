@@ -1,0 +1,8 @@
+﻿CREATE TABLE Notes
+(
+	Id INT PRIMARY KEY IDENTITY(1,1),
+    Title NVARCHAR(100),
+    Content NVARCHAR(MAX),
+    CreatedAt DATETIME DEFAULT GETDATE(),
+    UpdatedAt DATETIME NULL
+)

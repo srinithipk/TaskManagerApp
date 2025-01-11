@@ -1,0 +1,18 @@
+﻿@model TaskManagerAppNotes.Models.Note
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Note Details</h2>
+
+<div>
+    <h4>@Model.Title</h4>
+    <p>@Model.Content</p>
+    <small>Created At: @Model.CreatedAt</small>
+</div>
+
+<p>
+    <a href="@Url.Action("Edit", "Notes", new { id = Model.Id })" class="btn btn-warning">Edit</a>
+    <a href="@Url.Action("Index", "Notes")" class="btn btn-secondary">Back to Notes</a>
+</p>

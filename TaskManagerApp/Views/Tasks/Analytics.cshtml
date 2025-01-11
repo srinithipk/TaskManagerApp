@@ -1,0 +1,52 @@
+﻿@{
+    var analytics = Model;
+}
+
+<h1>Task Analytics Dashboard</h1>
+
+<!-- Summary Statistics -->
+<div>
+    <h3>Summary Statistics</h3>
+    <p>Total Tasks: @analytics.TotalTasks</p>
+    <p>Completed Tasks: @analytics.CompletedTasks</p>
+    <p>Pending Tasks: @analytics.PendingTasks</p>
+</div>
+
+<!-- Task Completion Pie Chart -->
+<div>
+    <!--<h3>Tasks by Completion Status</h3>-->
+    <canvas id="completionChart" width="400" height="200"></canvas>
+</div>
+
+<!-- Pie Chart Visualization -->
+<script>
+    var ctx = document.getElementById('completionChart').getContext('2d');
+    var completionChart = new Chart(ctx, {
+        type: 'pie',
+        data: {
+            labels: [@analytics.IsCompletedLabels],  // Use the string directly
+            datasets: [{
+                label: 'Tasks by Completion Status',
+                data: [@analytics.IsCompletedCounts],  // Use the string directly
+                backgroundColor: ['#66b3ff', '#99ff99'], // Colors for Completed vs. Not Completed
+                borderColor: ['#3399ff', '#66ff66'],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                legend: {
+                    position: 'top',
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function (tooltipItem) {
+                            return tooltipItem.label + ': ' + tooltipItem.raw + ' tasks';
+                        }
+                    }
+                }
+            }
+        }
+    });
+</script>
