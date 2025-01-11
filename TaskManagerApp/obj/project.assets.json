@@ -7807,11 +7807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\TaskManagerApp.Notes\\TaskManagerApp\\TaskManagerAppNotes.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\test\\TaskManagerApp\\TaskManagerAppNotes.csproj",
       "projectName": "TaskManagerAppNotes",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\TaskManagerApp.Notes\\TaskManagerApp\\TaskManagerAppNotes.csproj",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\test\\TaskManagerApp\\TaskManagerAppNotes.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\TaskManagerApp.Notes\\TaskManagerApp\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\test\\TaskManagerApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

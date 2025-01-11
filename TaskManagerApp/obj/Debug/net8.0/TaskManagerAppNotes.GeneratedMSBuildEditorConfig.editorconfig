@@ -17,103 +17,103 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TaskManagerAppNotes
 build_property.RootNamespace = TaskManagerAppNotes
-build_property.ProjectDir = C:\Users\Admin\source\repos\TaskManagerApp.Notes\TaskManagerApp\
+build_property.ProjectDir = C:\Users\Admin\source\repos\test\TaskManagerApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Admin\source\repos\TaskManagerApp.Notes\TaskManagerApp
+build_property.MSBuildProjectDirectory = C:\Users\Admin\source\repos\test\TaskManagerApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Home/Index.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Home/Privacy.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Notes/Create.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Notes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Notes/Delete.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Notes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Notes/Details.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Notes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Notes/Edit.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Notes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Notes/Index.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Notes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Shared/Error.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Tasks/Analytics.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Tasks/Analytics.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcQW5hbHl0aWNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Tasks/Create.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Tasks/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Tasks/Delete.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Tasks/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Tasks/Details.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Tasks/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Tasks/Edit.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Tasks/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Tasks/Index.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Tasks/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Trial/Create.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Trial/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpYWxcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Trial/Delete.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Trial/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpYWxcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Trial/Details.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Trial/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpYWxcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Trial/Edit.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Trial/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpYWxcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Trial/Index.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Trial/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpYWxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/_ViewImports.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/_ViewStart.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/source/repos/TaskManagerApp.Notes/TaskManagerApp/Views/Shared/_Layout.cshtml]
+[C:/Users/Admin/source/repos/test/TaskManagerApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-cndevszojv
