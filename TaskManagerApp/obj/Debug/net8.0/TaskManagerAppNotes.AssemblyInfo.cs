@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskManagerAppNotes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e12f7d87a67d7ed9e4f069b65bb4d1755c4f5386")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec46ac085e72cb4476d94512f3e5d5924edc1c8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskManagerAppNotes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskManagerAppNotes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\test\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D05DF4-FECF-45EE-A6FD-18EA4807CD27}|TaskManagerApp\\TaskManagerAppNotes.csproj|c:\\users\\admin\\source\\repos\\test\\taskmanagerapp\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D05DF4-FECF-45EE-A6FD-18EA4807CD27}|TaskManagerApp\\TaskManagerAppNotes.csproj|solutionrelative:taskmanagerapp\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\test\\TaskManagerApp\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskManagerApp\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\test\\TaskManagerApp\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskManagerApp\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:38:24.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
