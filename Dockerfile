@@ -27,4 +27,5 @@ RUN dotnet publish "./TaskManagerAppNotes.csproj" -c $BUILD_CONFIGURATION -o /ap
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "TaskManagerApp.dll"]
+COPY taskdb.db /tmp/taskdb.db
+ENTRYPOINT ["dotnet", "TaskManagerAppNotes.dll"]

@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore.Sqlite;
 using TaskManagerApp.Data; // Ensure this matches your project's namespace
 
 namespace TaskManagerApp
@@ -13,7 +14,7 @@ namespace TaskManagerApp
         {
             // Configure your DbContext
             services.AddDbContext<TaskDbContext>(options =>
-                options.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=TaskDb;Trusted_Connection=True;MultipleActiveResultSets=true"));
+                options.UseSqlite("Data Source=/tmp/taskdb.db"));
 
             services.AddControllersWithViews(); // Add MVC support
         }
